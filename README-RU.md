@@ -16,6 +16,13 @@
 ### Спасибо [Вадиму](https://github.com/vadymfedorets) за исходники 🚀
 ### Подписывайтесь на его гитхаб и ставьте звезды на его ботов 🔥
 
+## [HIDDEN CODE MARKET](https://t.me/hcmarket_bot?start=referral_355876562)
+
+#### - [Paws wallet connector](https://t.me/hcmarket_bot?start=referral_355876562-project_1016)
+#### - [Premium notpixel](https://t.me/hcmarket_bot?start=referral_355876562-project_1015)
+#### - [Blum wallet connector](https://t.me/hcmarket_bot?start=referral_355876562-project_1002)
+#### - [Telegram warning up](https://t.me/hcmarket_bot?start=referral_355876562-project_1001)
+
 ## МОИ ДРУГИЕ БОТЫ
 
 ### 💩 [Boinkers](https://github.com/YarmolenkoD/boinkers)
