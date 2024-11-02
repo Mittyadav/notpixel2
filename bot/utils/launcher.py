@@ -21,17 +21,17 @@ start_text = """
 ██║ ╚████║╚██████╔╝   ██║   ██║     ██║██╔╝ ██╗███████╗███████╗
 ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 
-🎨️Github - https://github.com/YarmolenkoD/notpixel
+🎨️Github - https://github.com/Mittyadav/notpixel2
 
 My other bots:
 
-💩Boinkers - https://github.com/YarmolenkoD/boinkers
-🐾Paws - https://github.com/YarmolenkoD/paws
+💩Boinkers - https://github.com/Mittyadav
+🐾Paws - https://github.com/Mittyadav/paws
 
 🚀 HIDDEN CODE MARKET 🚀
 
-🐾 PAWS WALLET CONNECTOR - https://t.me/hcmarket_bot?start=referral_355876562-project_1016
-🎨 NOTPIXEL PREMIUM - https://t.me/hcmarket_bot?start=referral_355876562-project_1015
+ join telegram channel - @scripthub00
+ join telegram group - @scripthub0
 
 Select an action:
 
