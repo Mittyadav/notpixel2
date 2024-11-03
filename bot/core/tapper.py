@@ -1221,8 +1221,7 @@ class Tapper:
                         del http_client.headers["Authorization"]
 
                     self.tg_web_data = await self.get_tg_web_data(proxy=proxy)
-                    if settings.ENABLE_AUTO_JOIN_TO_SQUAD == True:
-                        self.tg_web_data_not = await self.get_tg_web_data_not(proxy=proxy)
+                    self.tg_web_data_not = await self.get_tg_web_data_not(proxy=proxy)
 
                     http_client.headers['Authorization'] = f"initData {self.tg_web_data}"
 
