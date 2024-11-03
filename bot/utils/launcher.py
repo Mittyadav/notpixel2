@@ -63,7 +63,7 @@ async def get_tg_clients() -> list[Client]:
     if not session_names:
         raise FileNotFoundError("Not found session files")
 
-    if not settings.API_ID or noqt settings.API_HASH:
+    if not settings.API_ID or not settings.API_HASH:
         raise ValueError("API_ID and API_HASH not found in the .env file.")
 
     tg_clients = [
