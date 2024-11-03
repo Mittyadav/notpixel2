@@ -22,9 +22,8 @@ start_text = """
 ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 
 🎨️Github - https://github.com/Mittyadav/notpixel2
-
- join telegram channel - @scripthub00
- join telegram group - @scripthub0
+  join telegram channel - @scripthub00
+  join telegram group - @scripthub0
 
 Select an action:
 
